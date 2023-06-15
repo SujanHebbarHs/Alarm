@@ -1,0 +1,23 @@
+#nav{
+    height:40px;
+    width:100%;
+    background-color: rgb(184, 213, 213);
+}
+
+#home{
+    margin-left: 20px;
+    height:100%;
+    width:100px;
+    background-color: gray;
+}
+#box{
+    height:200px;
+    width: 300px;
+    /* border:2px solid black; */
+    margin:auto;
+}
+
+textarea{
+    resize: none;
+}
+
